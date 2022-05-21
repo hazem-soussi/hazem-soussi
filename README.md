@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm hazem soussi</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A Software engineer from Tunisia</h3>
+<h3 align="center">Dimploma In cloud computing Engineering</h3>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-soussi" alt="hazem-soussi" /></a> </p>
 
