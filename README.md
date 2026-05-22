@@ -1,25 +1,66 @@
-<h1 align="center">Hi 👋, I'm hazem soussi</h1>
-<h3 align="center">IT & cloud computing architect engineer</h3>
-<h3 align="center">Diploma In cloud computing Engineering</h3>
+# 0xHAZEM | Distributed Systems & DevSecOps Architect
 
+Building the autonomous infrastructure required for Superintelligence. Specialized in native Linux optimization, K8s reconciliation loops, and secure-by-design distributed networks.
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-soussi" alt="hazem-soussi" /></a> </p>
+### 📡 [System Telemetry]
 
-- 🌱 I’m currently learning **.net Framework**
+| Component | Status | Technology Stack |
+| :--- | :--- | :--- |
+| **Control Plane** | `OPERATIONAL` | Kubernetes (K8s), Go, Terraform |
+| **Data Plane** | `OPTIMIZING` | Distributed Systems, DisTrO, Rust |
+| **Security Layer** | `HARDENED` | Zero-Trust, AES-256, Pascal Vault |
+| **AI Ops** | `DEPLOYING` | LLM Orchestration, Hermes Agent, Azure/Bedrock |
 
-- 📫 How to reach me **hazem.soussi@esprit.tn**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠 Core Stack & Infrastructure
 <p align="left">
-<a href="https://twitter.com/Hazemsoussi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hazem soussi" height="30" width="40" /></a>
-<a href="https://fb.com/hazou007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazem soussi" height="30" width="40" /></a>
-<a href="https://instagram.com/hazem_soussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_soussi" height="30" width="40" /></a>
+  <!-- Orchestration & Cloud -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-soussi&show_icons=true&locale=en&layout=compact" alt="hazem-soussi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazem-soussi&show_icons=true&locale=en" alt="hazem-soussi" /></p>
+### 🧠 Current Research & Focus
+- ⚡ **Distributed Compute:** Exploring **DisTrO** for internet-scale GPU collaboration.
+- 🤖 **Agentic Loops:** Engineering self-healing infrastructure using **Hermes-style** learning loops.
+- 🛡 **Low-Level Security:** Hardening native Linux filesystems (Ext4/WSL2) for sub-millisecond I/O performance.
+- 🏗 **Systems Programming:** Transitioning legacy logic to **Rust** for memory-safe execution.
+
+---
+
+### 📊 Engineering Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-soussi&show_icons=true&locale=en&layout=compact&theme=vision-glow&hide_border=true" alt="hazem-soussi" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hazem-soussi&show_icons=true&locale=en&theme=vision-glow&hide_border=true" alt="hazem-soussi" />
+</p>
+
+---
+
+### 🔗 Secure Connection
+- **LinkedIn:** [linkedin.com/in/hazem-soussi](https://linkedin.com/in/hazem-soussi)
+- **Portfolio:** [hazem-soussi-HA.github.io/portfolio_final](https://github.com/hazem-soussi-HA/portfolio_final)
+- **Email:** `hazem.soussi@esprit.tn` (PGP Encryption Preferred)
+
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hazem-soussi&theme=darkhub&no-bg=true&no-frame=true" alt="hazem-soussi" />
+</p>
