@@ -45,12 +45,26 @@ Building the autonomous infrastructure required for Superintelligence. Specializ
 ---
 
 ### 📊 Engineering Metrics
+### 📊 Engineering Metrics
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-soussi&show_icons=true&locale=en&layout=compact&theme=vision-glow&hide_border=true" alt="hazem-soussi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-soussi-HA&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hazem-soussi-HA" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hazem-soussi&show_icons=true&locale=en&theme=vision-glow&hide_border=true" alt="hazem-soussi" />
+<img src="https://github-readme-stats.vercel.app/api?username=hazem-soussi-HA&show_icons=true&locale=en&theme=radical&hide_border=true" alt="hazem-soussi-HA" />
+</p>
+
+---
+
+### 🔗 Secure Connection
+- **LinkedIn:** [linkedin.com/in/hazem-soussi](https://linkedin.com/in/hazem-soussi)
+- **Portfolio:** [https://hazem-soussi-ha.github.io/portfolio_final/](https://hazem-soussi-ha.github.io/portfolio_final/)
+- **Email:** `hazem.soussi@esprit.tn` (PGP Encryption Preferred)
+
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hazem-soussi-HA&theme=darkhub&no-bg=true&no-frame=true" alt="hazem-soussi-HA" />
 </p>
 
 ---
