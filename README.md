@@ -44,18 +44,7 @@ Building the autonomous infrastructure required for Superintelligence. Specializ
 
 ---
 
-### 📊 Engineering Metrics
-### 📊 Engineering Metrics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-soussi-HA&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hazem-soussi-HA" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hazem-soussi-HA&show_icons=true&locale=en&theme=radical&hide_border=true" alt="hazem-soussi-HA" />
-</p>
-
----
 
 ### 🔗 Secure Connection
 - **LinkedIn:** [linkedin.com/in/hazem-soussi](https://linkedin.com/in/hazem-soussi)
